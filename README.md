@@ -60,7 +60,7 @@ remotely, generate digital queue tokens, and reduce the need for physical waitin
 allowing customers to monitor appointment status and staff to manage customer queues efficiently.
 • Integrated RESTful APIs with Spring Boot, Hibernate, and MySQL to manage appointment records,
 update queue statuses, and provide near-real-time queue information through the React frontend
-Live Demo: SmartQueue
+Live Demo: https://smartqueue-frontend-u8zs.onrender.com/
 
 
 
