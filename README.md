@@ -50,7 +50,7 @@ tion to provide a complete end-to-end online shopping experience.
 shopping cart items, and order transactions efficiently
 Live Demo: https://ai-powered-full-stack-e-commerce.onrender.com/
 
-   2.SmartQueue– Real-Time Queue Management System
+2. SmartQueue– Real-Time Queue Management System
 June 2026– August 2026
 Technologies: HTML, CSS, JavaScript, React.js, Java, Spring Boot, Hibernate, MySQL, REST APIs, Postman, Maven,
 Git, GitHub, Visual Studio Code, Eclipse IDE, Claude
